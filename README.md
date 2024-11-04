@@ -13,7 +13,7 @@ Coordinates on the sphere must be specified in spherical polar coordinates. The 
 
 For a uniform distribution on the sphere, 
 
-$f(\theta)d\theta = \frac{1}{2\pi} \sin(\theta)d\theta$, 
+$f(\Omega)d\Omega = \frac{1}{4\pi} d\Omega $, 
 
 an analytic expression for the Mean Integrated Squared Error (MISE) can be found. 
 
