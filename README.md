@@ -7,7 +7,7 @@ in chunks to reduce max. memory requirements.
 # Coordinates
 
 Coordinates on the sphere must be specified in spherical polar coordinates. The polar angle (theta) must be in the range [0,PI], with
-0 at the north pole, and the azimuthal angle (phi) should be in range [0,2*PI]. Obviously both should be in units of radians. 
+0 at the north pole, and the azimuthal angle (phi) should be in range [0,2*PI]. Both should be in radians. 
 
 # Requirements 
 
