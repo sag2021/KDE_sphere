@@ -11,8 +11,11 @@ Coordinates on the sphere must be specified in spherical polar coordinates. The 
 
 # Unit test
 
-For a uniform distribution on the sphere $f(\theta)d\theta = \sin(\theta)d\theta$, an analytic expression for the Mean Integrated Squared Error (MISE)
-can be found. 
+For a uniform distribution on the sphere, 
+
+$f(\theta)d\theta = \sin(\theta)d\theta$, 
+
+an analytic expression for the Mean Integrated Squared Error (MISE) can be found. 
 
 
 [^1]: Russell M.B., Johnson, C.L., Gilchrist, S.A.: 2024,"Investigating the Spatial Relationship of Shield Volcanism with Coronae on Venus",55th Lunar and Planetary Science Conference,3040,
