@@ -13,7 +13,7 @@ Coordinates on the sphere must be specified in spherical polar coordinates. The 
 
 The base module only requires numpy. To run the unit tests, matplotlib and scipy are required. 
 
-# Unit test
+# Unit tests
 
 There are two unit tests. The first tests that the Fisher kernel is correctly normalized. The second computes the KDE estimate
 for a uniform distribution and compares the MISE to the known MISE: for the uniform distribution on the sphere, the MISE can be computed analytically.
