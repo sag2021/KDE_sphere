@@ -48,7 +48,6 @@ import numpy as np
 
 # Local
 from kde_sphere import  kde_fisher,compute_log_norm_constant
-from kde_sphere_utests import trapz_2D
 
 # Scipy 
 from scipy.special import roots_legendre
