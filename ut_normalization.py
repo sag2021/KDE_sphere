@@ -27,22 +27,15 @@
 # OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE
 # OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 
-
 #
 # Check the normalization of the Fisher kernel. The log 
 # test only works for one kernel. 
 # 
 
-# Standard
 import numpy as np
 import matplotlib.pyplot as plt
-
-# Local
-from kde_sphere import  kde_fisher,compute_log_norm_constant
-
-# Scipy 
 from scipy.special import roots_legendre
-
+from kde_sphere import  kde_fisher,compute_log_norm_constant
 
 # Parameters 
 N_QUAD = 128   # Number of quadrature points
